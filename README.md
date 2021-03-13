@@ -1,4 +1,5 @@
 # movie-website
+This was a continuation of intro to VueJs where I was required to intergrate the website with open public API. The user will input their search value, the website will then retrieve from OMDB , it will then be displayed back on the website. 
 
 ## Project setup
 ```
